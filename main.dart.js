@@ -71713,7 +71713,7 @@ s=j.ax.a===B.u?B.l9:B.DR
 r=A.eB(30)
 q=A.a([$.aj5()],t.sq)
 p=t.p
-o=A.eo(A.a([A.f6(A.a([A.bI("Let's try my service now!",A.ci(k,k,k,k,k,k,k,k,k,k,k,8*($.b0.S()/3)/100,k,k,B.bl,k,1.2,!0,k,k,k,k,k,k,k,k),k),A.be(k,$.b0.S()/100,k),A.bI(u.C,B.OM,k),A.be(k,2*$.b0.S()/100,k)],p),B.bg,B.K,B.L),A.fI(!1,k,!0,A.bP(k,B.wx,B.l,k,k,new A.cf(k,k,k,A.eB(10),k,B.he,B.V),k,k,k,B.kR,k,k,k),k,!0,k,k,k,k,k,k,k,k,k,new A.Xv(),k,k,k,k)],p),B.bg,B.hC,B.L)
+o=A.eo(A.a([A.f6(A.a([A.bI("Let's try my service now",A.ci(k,k,k,k,k,k,k,k,k,k,k,8*($.b0.S()/3)/100,k,k,B.bl,k,1.2,!0,k,k,k,k,k,k,k,k),k),A.be(k,$.b0.S()/100,k),A.bI(u.C,B.OM,k),A.be(k,2*$.b0.S()/100,k)],p),B.bg,B.K,B.L),A.fI(!1,k,!0,A.bP(k,B.wx,B.l,k,k,new A.cf(k,k,k,A.eB(10),k,B.he,B.V),k,k,k,B.kR,k,k,k),k,!0,k,k,k,k,k,k,k,k,k,new A.Xv(),k,k,k,k)],p),B.bg,B.hC,B.L)
 n=A.bP(k,k,B.l,A.aj(51,255,255,255),k,k,k,1,k,k,k,k,k)
 m=A.be(k,2*$.b0.S()/100,k)
 l=$.amT()
@@ -71732,7 +71732,7 @@ $S:0}
 A.Fb.prototype={
 I(a){var s=null,r=A.az(a),q=A.be(s,10*$.b0.S()/100,s),p=A.be(s,3*$.b0.S()/100,s),o=10*$.b0.S()/100,n=A.be(s,5*$.b0.S()/100,s),m=A.fI(!1,s,!0,A.bP(s,B.wx,B.l,s,s,new A.cf(s,s,s,A.eB(10),s,B.he,B.V),s,s,s,B.kR,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Xy(),s,s,s,s),l=A.be(s,10*$.b0.S()/100,s),k=$.amT()
 k=new A.fh(k,A.a7(k).h("fh<1>"))
-return A.f6(A.a([q,new A.nu("Let's try my service now!",s),p,new A.bZ(new A.aK(o,0,o,0),new A.k6(u.C,s),s),n,m,l,A.a9D(B.wK,k.gd3(k).dX(0,new A.Xz(r),t.ao).dc(0),B.f1,50,0),A.be(s,5*$.b0.S()/100,s),A.bP(s,s,B.l,A.aj(51,255,255,255),s,s,s,1,s,s,s,s,s)],t.p),B.P,B.K,B.L)}}
+return A.f6(A.a([q,new A.nu("Let's try my service now",s),p,new A.bZ(new A.aK(o,0,o,0),new A.k6(u.C,s),s),n,m,l,A.a9D(B.wK,k.gd3(k).dX(0,new A.Xz(r),t.ao).dc(0),B.f1,50,0),A.be(s,5*$.b0.S()/100,s),A.bP(s,s,B.l,A.aj(51,255,255,255),s,s,s,1,s,s,s,s,s)],t.p),B.P,B.K,B.L)}}
 A.Xy.prototype={
 $0(){return A.jR(A.dx("https://wa.me/573246506150",0,null))},
 $S:0}
@@ -71746,7 +71746,7 @@ $S:0}
 A.H2.prototype={
 I(a){return B.JG}}
 A.H0.prototype={
-I(a){var s=null,r=A.az(a),q=$.kM.S(),p=10*$.b0.S()/100,o=$.kM.S(),n=$.b0.S(),m=t.p,l=A.eo(A.a([A.bI("Hi there, Welcome to My Space  ",B.ON,s),new A.iW(A.Ha("assets/gif/hi.gif",B.Z,s,40,s,s),B.cL,B.c3,B.h,s)],m),B.dW,B.K,B.bL),k=A.be(s,0.5*$.b0.S()/100,s),j=A.bI("Mi name is Jorge L\xf3pez,",B.OO,s),i=A.eo(A.a([B.PS,A.ajn($.aw0(),!0,!0)],m),B.dW,B.K,B.L),h=A.be(s,1.5*$.b0.S()/100,s),g=$.b0.S(),f=A.pG(a,20),e=(r.ax.a===B.u?B.R:B.T).a
+I(a){var s=null,r=A.az(a),q=$.kM.S(),p=10*$.b0.S()/100,o=$.kM.S(),n=$.b0.S(),m=t.p,l=A.eo(A.a([A.bI("Hi there, Welcome to My Space  ",B.ON,s),new A.iW(A.Ha("assets/gif/hi.gif",B.Z,s,40,s,s),B.cL,B.c3,B.h,s)],m),B.dW,B.K,B.bL),k=A.be(s,0.5*$.b0.S()/100,s),j=A.bI("My name is Jorge L\xf3pez,",B.OO,s),i=A.eo(A.a([B.PS,A.ajn($.aw0(),!0,!0)],m),B.dW,B.K,B.L),h=A.be(s,1.5*$.b0.S()/100,s),g=$.b0.S(),f=A.pG(a,20),e=(r.ax.a===B.u?B.R:B.T).a
 return A.be(new A.bZ(new A.aK(p,0,p,0),A.eo(A.a([A.bP(s,A.f6(A.a([l,k,j,i,h,new A.bZ(new A.aK(0,0,10*g/100,0),A.bI(u.F,A.ci(s,s,A.aj(153,e>>>16&255,e>>>8&255,e&255),s,s,s,s,s,s,s,s,f,s,s,B.t,s,s,!0,s,s,s,s,s,s,s,s),s),s),A.be(s,3*$.b0.S()/100,s),new A.nq("download cv",new A.a01(),s)],m),B.bg,B.K,B.bL),B.l,s,s,s,s,s,new A.aK(0,10*o/100,0,0),s,s,s,55*n/100),B.wM],m),B.P,B.hC,B.L),s),80*q/100,s)}}
 A.a01.prototype={
 $0(){var s=window
@@ -71757,7 +71757,7 @@ A.H1.prototype={
 I(a){var s,r=null,q=$.b0.S(),p=$.kM.S(),o=$.b0.S(),n=$.ajp
 n.toString
 s=t.p
-return new A.bZ(new A.aK(10*q/100,10*p/100,10*o/100,0),A.f6(A.a([A.eo(A.a([A.bI("Hi there, Welcome to My Space  ",n.fE(A.pG(a,16)),r),A.Ha("assets/gif/hi.gif",B.Z,r,10*($.b0.S()/3)/100,r,r)],s),B.P,B.K,B.bL),A.bI("Mi name is Jorge L\xf3pez,",A.ci(r,r,r,r,r,r,r,r,r,r,r,A.pG(a,28),r,r,B.bl,r,r,!0,r,r,r,r,r,r,r,r),r),A.be(r,$.b0.S()/100,r),A.eo(A.a([A.bI("A ",A.ci(r,r,r,r,r,r,r,r,r,r,r,A.pG(a,18),r,r,B.t,r,r,!0,r,r,r,r,r,r,r,r),r),A.ajn($.aw2(),!0,!0)],s),B.dW,B.K,B.L),A.be(r,2*$.b0.S()/100,r),A.eo(A.a([new A.nq("download cv",new A.a02(),r),B.kT],s),B.P,B.hC,B.L)],s),B.bg,B.K,B.L),r)}}
+return new A.bZ(new A.aK(10*q/100,10*p/100,10*o/100,0),A.f6(A.a([A.eo(A.a([A.bI("Hi there, Welcome to My Space  ",n.fE(A.pG(a,16)),r),A.Ha("assets/gif/hi.gif",B.Z,r,10*($.b0.S()/3)/100,r,r)],s),B.P,B.K,B.bL),A.bI("My name is Jorge L\xf3pez,",A.ci(r,r,r,r,r,r,r,r,r,r,r,A.pG(a,28),r,r,B.bl,r,r,!0,r,r,r,r,r,r,r,r),r),A.be(r,$.b0.S()/100,r),A.eo(A.a([A.bI("A ",A.ci(r,r,r,r,r,r,r,r,r,r,r,A.pG(a,18),r,r,B.t,r,r,!0,r,r,r,r,r,r,r,r),r),A.ajn($.aw2(),!0,!0)],s),B.dW,B.K,B.L),A.be(r,2*$.b0.S()/100,r),A.eo(A.a([new A.nq("download cv",new A.a02(),r),B.kT],s),B.P,B.hC,B.L)],s),B.bg,B.K,B.L),r)}}
 A.a02.prototype={
 $0(){var s=window
 s.toString
@@ -71773,7 +71773,7 @@ q.toString
 p=t.p
 q=A.eo(A.a([A.bI("Hi there, Welcome to My Space  ",q.fE(A.pG(a,18)),h),new A.iW(A.Ha("assets/gif/hi.gif",B.Z,h,10*($.b0.S()/3)/100,h,h),B.cL,B.c3,B.h,h)],p),B.P,B.K,B.bL)
 o=A.be(h,$.b0.S()/100,h)
-n=A.bI("Mi name is Jorge L\xf3pez,",A.ci(h,h,h,h,h,h,h,h,h,h,h,A.pG(a,38),h,h,B.bl,h,h,!0,h,h,h,h,h,h,h,h),h)
+n=A.bI("My name is Jorge L\xf3pez,",A.ci(h,h,h,h,h,h,h,h,h,h,h,A.pG(a,38),h,h,B.bl,h,h,!0,h,h,h,h,h,h,h,h),h)
 m=A.eo(A.a([A.bI("A ",A.ci(h,h,h,h,h,h,h,h,h,h,h,A.pG(a,24),h,h,B.t,h,h,!0,h,h,h,h,h,h,h,h),h),A.ajn($.aw6(),!0,!1)],p),B.P,B.K,B.L)
 l=A.be(h,1.5*$.b0.S()/100,h)
 k=$.b0.S()
